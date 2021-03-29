@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../header.h"
 
 void quadrat (int x) {
   (x) = (x) * (x);
@@ -18,7 +18,6 @@ void ausgabe (double x) {
 }
 
 int main () {
-  printf();
   int k = 2;
   int k_ptr = 3;
   int k_ref = 4;
