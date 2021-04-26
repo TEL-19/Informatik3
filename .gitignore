@@ -1,3 +1,4 @@
 **.dSYM/Contents/Resources/DWARF/04_referenz
 *.out
 **/Info.plist
+.DS_Store
